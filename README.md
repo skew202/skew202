@@ -280,6 +280,11 @@
 <br>
 <br>
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+<br>
+<br>
+
 <h3 align="left">Support:</h3>
 <p>
     <a href="https://www.buymeacoffee.com/skew202">
