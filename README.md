@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **VBScript**
 
-- 👯 I’m looking to collaborate on [entrepreneurship](cto.stefanwiest.de)
+- 👯 I’m looking to collaborate on [entrepreneurship](https://cto.stefanwiest.de)
 
 - 👨‍💻 Some of my projects are available at [Gitlab](https://gitlab.com/skew202)
 
