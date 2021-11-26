@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm stefan</h1>
 <h3 align="center">A full-stack developer from Germany</h3>
 
-- 🌱 I’m currently learning **VBScript**
+- 🌱 I’m currently learning **YAML**
 
 - 👯 I’m looking to collaborate on [entrepreneurship](https://cto.stefanwiest.de)
-
-- 👨‍💻 Some of my projects are available at [Gitlab](https://gitlab.com/skew202)
 
 - 💬 Ask me about **anything**
 
