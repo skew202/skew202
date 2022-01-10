@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm stefan</h1>
-<h3 align="center">A full-stack developer from Germany</h3>
+<h3 align="center">IT dude from Germany</h3>
 
 - 🌱 I’m currently learning **YAML**
 
