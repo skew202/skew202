@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm stefan</h1>
-<h3 align="center">IT dude from Germany</h3>
+<h1 align="center">Hi, I'm steven</h1>
+<h3 align="center">Full-Stack Software Developer (Freelance) | IT Consultant</h3>
 
 - 👯 I’m looking to collaborate on [entrepreneurship](https://cto.stefanwiest.de)
 
