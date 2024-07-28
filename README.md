@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm stefan</h1>
 <h3 align="center">IT dude from Germany</h3>
 
-- 🌱 I’m currently learning **YAML**
-
 - 👯 I’m looking to collaborate on [entrepreneurship](https://cto.stefanwiest.de)
 
 - 💬 Ask me about **anything**
