@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm steven</h1>
 <h3 align="center">Full-Stack Software Developer (Freelance) | IT Consultant</h3>
 
-- 👯 I’m looking to collaborate on [entrepreneurship](https://cto.stefanwiest.de)
+  ⚡ I’m looking to collaborate on [entrepreneurship](https://cto.stefanwiest.de)
 
-- 💬 Ask me about **anything**
+  ⚡ Ask me about **anything**
 
-- 📫 How to reach me **skew202@gmail.com**
+  ⚡ How to reach me **skew202@gmail.com**
 
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/stefanwiest)
+  ⚡ Know about my experiences [LinkedIn](https://www.linkedin.com/in/stefanwiest)
 
-- ⚡ Fun fact **My first pc was a Commodore PC-30**
+  ⚡ Fun fact **My first pc was a Commodore PC-30**
 
 <br>
 <br>
@@ -20,7 +20,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" height="40" width="40"/>          
     </a>
     <a href="https://dev.to/skew202" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" height="40" width="40"/>
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" height="40" width="40" style="margin-bottom: 20px;"/>
     </a>
     <a href="https://twitter.com/skew202" target="blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" height="40" width="40"/>
@@ -32,13 +32,13 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original-wordmark.svg" height="40" width="40"/>
     </a>
     <a href="https://angel.co/u/skew202" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angellist.svg" height="40" width="40" />
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angellist.svg" height="40" width="40" style="margin-bottom: 20px;"/>
     </a>
     <a href="https://news.ycombinator.com/user?id=skew202" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ycombinator.svg" height="40" width="40" />
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ycombinator.svg" height="40" width="40" style="margin-bottom: 20px;"/>
     </a>
     <a href="https://keybase.io/stefanwiest" target="blank">
-        <img align="center" src="https://www.vectorlogo.zone/logos/keybase/keybase-icon.svg" height="40" width="40" />
+        <img align="center" src="https://www.vectorlogo.zone/logos/keybase/keybase-icon.svg" height="40" width="40" style="margin-bottom: 20px;"/>
     </a>
 </p>
 
