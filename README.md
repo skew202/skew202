@@ -25,7 +25,7 @@
     <a href="https://twitter.com/skew202" target="blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" height="40" width="40"/>
     </a>
-    <a href="https://linkedin.com/in/skew202" target="blank">
+    <a href="https://linkedin.com/in/stefanwiest" target="blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" width="40"/>
     </a>
     <a href="https://stackoverflow.com/users/skew202" target="blank">
