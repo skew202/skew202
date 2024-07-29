@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm steven</h1>
 <h3 align="center">Full-Stack Software Developer (Freelance) | IT Consultant</h3>
 
-- 👯 I’m looking to collaborate on [entrepreneurship](https://cto.stefanwiest.de)
+  ⚡ I’m looking to collaborate on [entrepreneurship](https://cto.stefanwiest.de)
 
-- 💬 Ask me about **anything**
+  ⚡ Ask me about **anything**
 
-- 📫 How to reach me **skew202@gmail.com**
+  ⚡ How to reach me **skew202@gmail.com**
 
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/stefanwiest)
+  ⚡ Know about my experiences [LinkedIn](https://www.linkedin.com/in/stefanwiest)
 
-- ⚡ Fun fact **My first pc was a Commodore PC-30**
+  ⚡ Fun fact **My first pc was a Commodore PC-30**
 
 <br>
 <br>
