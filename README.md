@@ -17,28 +17,28 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://gitlab.com/skew202" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg" alt="skew202" height="30" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" height="40" width="40"/>          
     </a>
     <a href="https://dev.to/skew202" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="skew202" height="30" width="40" />
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" height="40" width="40"/>
     </a>
     <a href="https://twitter.com/skew202" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="skew202" height="30" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" height="40" width="40"/>
     </a>
     <a href="https://linkedin.com/in/skew202" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="skew202" height="30" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" width="40"/>
     </a>
     <a href="https://stackoverflow.com/users/skew202" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="skew202" height="30" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original-wordmark.svg" height="40" width="40"/>
     </a>
     <a href="https://angel.co/u/skew202" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angellist.svg" alt="skew202" height="30" width="40" />
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angellist.svg" height="40" width="40" />
     </a>
     <a href="https://news.ycombinator.com/user?id=skew202" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ycombinator.svg" alt="skew202" height="30" width="40" />
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ycombinator.svg" height="40" width="40" />
     </a>
     <a href="https://keybase.io/stefanwiest" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/coinbase.svg" alt="skew202" height="30" width="40" />
+        <img align="center" src="https://www.vectorlogo.zone/logos/keybase/keybase-icon.svg" height="40" width="40" />
     </a>
 </p>
 
@@ -56,7 +56,7 @@
     <a href="https://babeljs.io/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/babel/babel-original.svg" alt="babel" width="40" height="40" />
     </a>
-    <a href="https://babeljs.io/" target="_blank">
+    <a href="https://github.com/romkatv/powerlevel10k" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="40" height="40" />
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank">
