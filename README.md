@@ -77,12 +77,6 @@ SeekingSota explores what happens when engineers stop programming and start cond
 
 ---
 
-## 📊 Stats
-
-![](https://stats.cncf.co/api/github/repos/skew202)
-
----
-
 ## 📫 Connect
 
 **Online**:
@@ -95,17 +89,12 @@ SeekingSota explores what happens when engineers stop programming and start cond
 - 🔬 **Research**: [stefanwiest](https://github.com/stefanwiest) — HCT, Genesis, papers
 - ✍️ **Content**: [seekingsota](https://seekingsota.com)
 
-**Email**:
-- 📧 [Available on website](https://stefanwiest.de/contact)
-- 🗓️ [Speaking inquiries](https://stefanwiest.de/speaking) — Conferences, meetups, podcasts
-
 ---
 
 ## 🎯 What I'm Working On
 
 **Right Now**:
 - 📄 [HCT Survey Paper](https://github.com/stefanwiest/hct-survey-paper) — Comprehensive MAS landscape analysis (2025)
-- 🎛️ [Genesis v2.0](https://github.com/stefanwiest/genesis) — Glass Box evolution + MCP integration
 - 🔊 [SpeakOps Beta](https://github.com/speakops/desktop) — Public launch preparation
 
 **Exploring**:
@@ -122,12 +111,6 @@ SeekingSota explores what happens when engineers stop programming and start cond
 **Philosophy**: Research needs production. Theory needs tools. Technical work needs human stories.
 
 **Edge**: I'm not speculating about AI's impact—I'm living it. Building the systems, shipping the code, debugging the coordination failures, and writing about what it actually feels like.
-
----
-
-*Built with research-backed rigor, production-quality code, and honest storytelling.*
-
-*Part of the Stefan Wiest ecosystem: **AI Research & Engineering · Multi-Agent System Coordination***
 
 ---
 
