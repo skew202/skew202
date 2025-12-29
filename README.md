@@ -1,246 +1,150 @@
-<h1 align="center">Hi, I'm steven</h1>
-<h3 align="center">Full-Stack Software Developer (Freelance) | IT Consultant</h3>
+# Stefan Wiest
 
-  ⚡ I’m looking to collaborate on [entrepreneurship](https://cto.stefanwiest.de)
+> **AI Research & Engineering · Multi-Agent System Coordination**
 
-  ⚡ Ask me about **anything**
+<div align="center">
+  <img src="https://github.com/skew202/assets/blob/main/branding/exoplanet_system_banner.png" alt="Pixelated Exoplanet System Banner" width="100%">
+</div>
 
-  ⚡ How to reach me **skew202@gmail.com**
+I research how AI agents coordinate at scale and build production tools to make it practical. I also write about the human side of this transformation—from identity crisis to new possibilities.
 
-  ⚡ Know about my experiences [LinkedIn](https://www.linkedin.com/in/stefanwiest)
+---
 
-  ⚡ Fun fact **My first pc was a Commodore PC-30**
+## 🔬 Research
 
-<br>
-<br>
+**[Harmonic Coordination Theory (HCT)](https://github.com/stefanwiest/hct-core)** — A musical ontology for multi-agent coordination
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://gitlab.com/skew202" target="blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" height="40" width="40"/>          
-    </a>
-    <a href="https://dev.to/skew202" target="blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" height="40" width="40" />
-    </a>
-    <a href="https://twitter.com/skew202" target="blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" height="40" width="40"/>
-    </a>
-    <a href="https://linkedin.com/in/stefanwiest" target="blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" width="40"/>
-    </a>
-    <a href="https://stackoverflow.com/users/skew202" target="blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original-wordmark.svg" height="40" width="40"/>
-    </a>
-    <a href="https://angel.co/u/skew202" target="blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angellist.svg" height="40" width="40" />
-    </a>
-    <a href="https://news.ycombinator.com/user?id=skew202" target="blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ycombinator.svg" height="40" width="40" />
-    </a>
-    <a href="https://keybase.io/stefanwiest" target="blank">
-        <img src="https://www.vectorlogo.zone/logos/keybase/keybase-icon.svg" height="40" width="40" />
-    </a>
-</p>
+Current frameworks (LangGraph, CrewAI) give you tools for orchestration, but lack a shared language for *coordination semantics*—timing, quality, intent, and harmony. HCT fills this gap using musical performance as the ontology: cues, fermatas, tempo, and dissonance become engineering primitives.
 
-<br>
-<br>
+- 📄 [Read the papers](https://stefanwiest.de/research)
+- 💻 [hct-core](https://github.com/stefanwiest/hct-core) — Python/Rust/JS reference implementation
+- 📊 [hct-benchmarks](https://github.com/stefanwiest/hct-benchmarks) — Validation suite
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://aws.amazon.com" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
-    </a>
-    <a href="https://azure.microsoft.com/en-in/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" />
-    </a>
-    <a href="https://babeljs.io/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/babel/babel-original.svg" alt="babel" width="40" height="40" />
-    </a>
-    <a href="https://github.com/romkatv/powerlevel10k" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="40" height="40" />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-    </a>
-    <a href="https://www.docker.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
-    </a>
-    <a href="https://www.elastic.co" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40" />
-    </a>
-    <a href="https://www.electronjs.org" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" alt="electron" width="40" height="40" />
-    </a>
-    <a href="https://expressjs.com" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
-    </a>
-    <a href="https://www.figma.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-    </a>
-    <a href="https://flask.palletsprojects.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40" />
-    </a>
-    <a href="https://flutter.dev" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
-    </a>
-    <a href="https://cloud.google.com" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" />
-    </a>
-    <a href="https://git-scm.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-    </a>
-    <a href="https://golang.org" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="go" width="40" height="40" />
-    </a>
-    <a href="https://grafana.com" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40" />
-    </a>
-    <a href="https://graphql.org" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" />
-    </a>
-    <a href="https://gulpjs.com" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40" />
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-    </a>
-    <a href="https://gohugo.io/" target="_blank">
-        <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40" />
-    </a>
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" />
-    </a>
-    <a href="https://www.invisionapp.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40" />
-    </a>
-    <a href="https://ionicframework.com" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" alt="ionic" width="40" height="40"/>
-    </a>
-    <a href="https://jasmine.github.io/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40" />
-    </a>
-    <a href="https://www.java.com" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-    </a>
-    <a href="https://jestjs.io" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" />
-    </a>
-    <a href="https://karma-runner.github.io/latest/index.html" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/karma/karma-original.svg" alt="karma" width="40" height="40" />
-    </a>
-    <a href="https://www.elastic.co/kibana" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40" />
-    </a>
-    <a href="https://kubernetes.io" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" />
-    </a>
-    <a href="https://www.linux.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-    </a>
-    <a href="https://mariadb.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" alt="mariadb" width="40" height="40" />
-    </a>
-    <a href="https://mochajs.org" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40" />
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-    </a>
-    <a href="https://nextjs.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
-    </a>
-    <a href="https://www.nginx.com" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" />
-    </a>
-    <a href="https://nodejs.org" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-    </a>
-    <a href="https://nuxtjs.org/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40" />
-    </a>
-    <a href="https://www.photoshop.com/en" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40" />
-    </a>
-    <a href="https://www.postgresql.org" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
-    </a>
-    <a href="https://postman.com" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
-    </a>
-    <a href="https://pugjs.org" target="_blank">
-        <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40" />
-    </a>
-    <a href="https://github.com/puppeteer/puppeteer" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/puppeteer/puppeteer-original.svg" alt="puppeteer" width="40" height="40" />          
-    </a>
-    <a href="https://www.python.org" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40" />
-    </a>
-    <a href="https://pytorch.org/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" />
-    </a>
-    <a href="https://reactjs.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-    </a>
-    <a href="https://reactnative.dev/" target="_blank">
-        <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" />
-    </a>
-    <a href="https://redis.io" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" />
-    </a>
-    <a href="https://redux.js.org" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="redux" width="40" height="40" />
-    </a>
-    <a href="https://sass-lang.com" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
-    </a>
-    <a href="https://www.selenium.dev" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40" />          
-    </a>
-    <a href="https://www.sketch.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40" />
-    </a>
-    <a href="https://spring.io/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
-    </a>
-    <a href="https://www.sqlite.org/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" />
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
-    </a>
-    <a href="https://vuejs.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" />
-    </a>
-    <a href="https://vuetifyjs.com/en/" target="_blank">
-        <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40" />
-    </a>
-    <a href="https://webpack.js.org" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40" />
-    </a>
-</p>
+**[Genesis Framework](https://stefanwiest.de/research/genesis)** — Research lab for multi-agent systems
 
-<br>
-<br>
+Genesis is the reference implementation of HCT: an operating system for agents with SVRL loops (Socratic Verification & Reflection) and Glass Box evolution.
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+- 📄 [Genesis paper](https://stefanwiest.de/research/genesis)
+- 🤖 [stefanwiest/agents](https://github.com/stefanwiest/agents) — Agent personas (GAS v4.0)
+- 🛠️ [stefanwiest/skills](https://github.com/stefanwiest/skills) — Reusable capabilities
 
-<br>
-<br>
+---
 
-<h3 align="left">Support:</h3>
-<p>
-    <a href="https://www.buymeacoffee.com/skew202">
-        <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="skew202" />
-    </a>
-</p>
+## 🛠️ Tools
 
-<!-- <p align="left">
-<img src="https://komarev.com/ghpvc/?username=skew202&label=Profile%20views&color=0e75b6&style=flat" alt="skew202" />
-</p> -->
+I build production tools that solve real problems—usually ones I've encountered myself.
+
+### [EnvCheck](https://github.com/envcheck/envcheck)
+> **The Validator**
+
+Fast, modern Rust CLI that detects `.env` file issues and syncs with Kubernetes, Terraform, Ansible, GitHub Actions, Helm, and ArgoCD. Better than dotenv-linter with 10x more features.
+
+- 🔧 [K8s sync, Terraform integration, TUI, SARIF output](https://github.com/envcheck/envcheck)
+- 📦 `cargo install envcheck` · `npm install -g envcheck`
+- ⚡ [envcheck.github.io](https://envcheck.github.io) — Documentation
+
+### [NerfStatus](https://github.com/nerfstatus/nerfprobe)
+> **The Detector**
+
+"The buyer's guide for AI models." Detects silent model collapse, quantization artifacts, and instruction failures with 17 research-backed probes (Math, Style, Timing, Code, Fact, JSON, Consistency, Fingerprint, and more).
+
+- 🔬 [17 scientifically-grounded instruments](https://github.com/nerfstatus/nerfprobe)
+- 📦 `pip install nerfprobe`
+- 📊 [nerfstatus.com](https://nerfstatus.com) — Real-time dashboard
+
+### [SpeakOps](https://github.com/speakops/project)
+> **The Amplifier**
+
+"DevOps for your Voice." Analyzes your speech in real-time during interviews, sales calls, or presentations and sends HUD-style teleprompter hints to your phone. Hybrid AI: local STT (privacy) + cloud intelligence (quality).
+
+- 🎤 [Interview Coach platform](https://github.com/speakops/project)
+- 🔊 [Cloud service](https://github.com/speakops/cloud) — Whisper + Llama 3.1
+- 📱 [Phone PWA](https://github.com/speakops/phone) — Progressive web app
+
+---
+
+## ✍️ Writing
+
+**[SeekingSota](https://seekingsota.com)** — Weekly essays on AI × Human identity crisis
+
+I don't write code anymore. I just yell at agents.
+*And sometimes they listen.*
+
+SeekingSota explores what happens when engineers stop programming and start conducting AI agents. Real agent workflows, technical deep dives (made accessible), philosophy of production, and honest stories about the identity crisis that comes with this transformation.
+
+- 📝 [seekingsota.com](https://seekingsota.com) — Weekly essays (every Tuesday)
+- 🐦 [Twitter/X](https://twitter.com/seekingsota) — Threads + updates
+- 📧 [Subscribe](https://seekingsota.com/subscribe) — Free or paid
+
+**Recent Essays**:
+- ["I Don't Write Code Anymore. I Just Yell At Agents."](https://seekingsota.com/p/i-dont-write-code-anymore)
+- ["So AWS us-east-1 decided to cosplay as chaos monkey"](https://seekingsota.com)
+- ["This is my solution to eliminate 90% of .env file headaches"](https://seekingsota.com)
+
+---
+
+## 📊 Stats
+
+![](https://stats.cncf.co/api/github/repos/skew202)
+
+---
+
+## 📫 Connect
+
+**Online**:
+- 🌐 [Website](https://stefanwiest.de) — Research, tools, writing, talks
+- 💼 [LinkedIn](https://linkedin.com/in/stefanwiest) — Professional posts + updates
+- 🐦 [Twitter/X](https://twitter.com/seekingsota) — Threads + conversation
+
+**GitHub**:
+- 🔧 **Tools**: [EnvCheck](https://github.com/envcheck), [NerfStatus](https://github.com/nerfstatus), [SpeakOps](https://github.com/speakops)
+- 🔬 **Research**: [stefanwiest](https://github.com/stefanwiest) — HCT, Genesis, papers
+- ✍️ **Content**: [seekingsota](https://seekingsota.com)
+
+**Email**:
+- 📧 [Available on website](https://stefanwiest.de/contact)
+- 🗓️ [Speaking inquiries](https://stefanwiest.de/speaking) — Conferences, meetups, podcasts
+
+---
+
+## 🎯 What I'm Working On
+
+**Right Now**:
+- 📄 [HCT Survey Paper](https://github.com/stefanwiest/hct-survey-paper) — Comprehensive MAS landscape analysis (2025)
+- 🎛️ [Genesis v2.0](https://github.com/stefanwiest/genesis) — Glass Box evolution + MCP integration
+- 🔊 [SpeakOps Beta](https://github.com/speakops/project) — Public launch preparation
+
+**Exploring**:
+- Agent-to-Agent (A2A) protocol extensions
+- TensorZero inference optimization
+- Constitutional AI governance frameworks
+
+---
+
+## 🎪 Background
+
+**15+ years** building production software, from Sixt (1M+ bookings/day) to Samsa.AI (ML platforms). Now researching multi-agent coordination while building tools and writing honest stories about the transformation.
+
+**Philosophy**: Research needs production. Theory needs tools. Technical work needs human stories.
+
+**Edge**: I'm not speculating about AI's impact—I'm living it. Building the systems, shipping the code, debugging the coordination failures, and writing about what it actually feels like.
+
+---
+
+*Built with research-backed rigor, production-quality code, and honest storytelling.*
+
+*Part of the Stefan Wiest ecosystem: **AI Research & Engineering · Multi-Agent System Coordination***
+
+---
+
+**Pinned Repositories** ↓
+
+<!--
+Note to self: Pin these 6 repos via GitHub profile settings:
+1. stefanwiest/hct-core
+2. stefanwiest/hct-spec
+3. stefanwiest/hct-mcp-signals
+4. envcheck/envcheck
+5. nerfstatus/nerfprobe
+6. speakops/desktop
+-->
