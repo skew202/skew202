@@ -20,13 +20,7 @@ Current frameworks (LangGraph, CrewAI) give you tools for orchestration, but lac
 - 💻 [hct-core](https://github.com/stefanwiest/hct-core) — Python/Rust/JS reference implementation
 - 📊 [hct-benchmarks](https://github.com/stefanwiest/hct-benchmarks) — Validation suite
 
-**[Genesis Framework](https://stefanwiest.de/research/genesis)** — Research lab for multi-agent systems
 
-Genesis is the reference implementation of HCT: an operating system for agents with SVRL loops (Socratic Verification & Reflection) and Glass Box evolution.
-
-- 📄 [Genesis paper](https://stefanwiest.de/research/genesis)
-- 🤖 [stefanwiest/agents](https://github.com/stefanwiest/agents) — Agent personas (GAS v4.0)
-- 🛠️ [stefanwiest/skills](https://github.com/stefanwiest/skills) — Reusable capabilities
 
 ---
 
