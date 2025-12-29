@@ -40,7 +40,7 @@ Fast, modern Rust CLI that detects `.env` file issues and syncs with Kubernetes,
 ### [NerfStatus](https://github.com/nerfstatus/nerfprobe)
 > **The Detector**
 
-"The buyer's guide for AI models." Detects silent model collapse, quantization artifacts, and instruction failures with 17 research-backed probes (Math, Style, Timing, Code, Fact, JSON, Consistency, Fingerprint, and more).
+Detects silent model collapse, quantization artifacts, and instruction failures with 17 research-backed probes (Math, Style, Timing, Code, Fact, JSON, Consistency, Fingerprint, and more).
 
 - 🔬 [17 scientifically-grounded instruments](https://github.com/nerfstatus/nerfprobe)
 - 📦 `pip install nerfprobe`
@@ -51,7 +51,7 @@ Fast, modern Rust CLI that detects `.env` file issues and syncs with Kubernetes,
 
 "DevOps for your Voice." Analyzes your speech in real-time during interviews, sales calls, or presentations and sends HUD-style teleprompter hints to your phone. Hybrid AI: local STT (privacy) + cloud intelligence (quality).
 
-- 🎤 [Interview Coach platform](https://github.com/speakops/project)
+- 🎤 [Real-time Speech Telemetry](https://github.com/speakops/project)
 - 🔊 [Cloud service](https://github.com/speakops/cloud) — Whisper + Llama 3.1
 - 📱 [Phone PWA](https://github.com/speakops/phone) — Progressive web app
 
