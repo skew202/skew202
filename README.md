@@ -46,12 +46,12 @@ Detects silent model collapse, quantization artifacts, and instruction failures 
 - 📦 `pip install nerfprobe`
 - 📊 [nerfstatus.com](https://nerfstatus.com) — Real-time dashboard
 
-### [SpeakOps](https://github.com/speakops/project)
+### [SpeakOps](https://github.com/speakops/desktop)
 > **The Amplifier**
 
 "DevOps for your Voice." Analyzes your speech in real-time during interviews, sales calls, or presentations and sends HUD-style teleprompter hints to your phone. Hybrid AI: local STT (privacy) + cloud intelligence (quality).
 
-- 🎤 [Real-time Speech Telemetry](https://github.com/speakops/project)
+- 🎤 [Real-time Speech Telemetry](https://github.com/speakops/desktop)
 - 🔊 [Cloud service](https://github.com/speakops/cloud) — Whisper + Llama 3.1
 - 📱 [Phone PWA](https://github.com/speakops/phone) — Progressive web app
 
@@ -106,7 +106,7 @@ SeekingSota explores what happens when engineers stop programming and start cond
 **Right Now**:
 - 📄 [HCT Survey Paper](https://github.com/stefanwiest/hct-survey-paper) — Comprehensive MAS landscape analysis (2025)
 - 🎛️ [Genesis v2.0](https://github.com/stefanwiest/genesis) — Glass Box evolution + MCP integration
-- 🔊 [SpeakOps Beta](https://github.com/speakops/project) — Public launch preparation
+- 🔊 [SpeakOps Beta](https://github.com/speakops/desktop) — Public launch preparation
 
 **Exploring**:
 - Agent-to-Agent (A2A) protocol extensions
