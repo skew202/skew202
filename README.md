@@ -34,7 +34,7 @@ I build production tools that solve real problems—usually ones I've encountere
 Fast, modern Rust CLI that detects `.env` file issues and syncs with Kubernetes, Terraform, Ansible, GitHub Actions, Helm, and ArgoCD. Better than dotenv-linter with 10x more features.
 
 - 🔧 [K8s sync, Terraform integration, TUI, SARIF output](https://github.com/envcheck/envcheck)
-- 📦 `cargo install envcheck` · `npm install -g envcheck`
+- 📦 `cargo install envcheck` · `npm install -g @envcheck/cli`
 - ⚡ [envcheck.github.io](https://envcheck.github.io) — Documentation
 
 ### [NerfStatus](https://github.com/nerfstatus/nerfprobe)
@@ -107,10 +107,6 @@ SeekingSota explores what happens when engineers stop programming and start cond
 ## 🎪 Background
 
 **15+ years** building production software, from Sixt (1M+ bookings/day) to Samsa.AI (ML platforms). Now researching multi-agent coordination while building tools and writing honest stories about the transformation.
-
-**Philosophy**: Research needs production. Theory needs tools. Technical work needs human stories.
-
-**Edge**: I'm not speculating about AI's impact—I'm living it. Building the systems, shipping the code, debugging the coordination failures, and writing about what it actually feels like.
 
 ---
 
