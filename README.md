@@ -2,9 +2,9 @@
 
 > **AI Research & Engineering · Multi-Agent System Coordination**
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github.com/skew202/assets/blob/main/branding/exoplanet_system_banner.png" alt="Pixelated Exoplanet System Banner" width="100%">
-</div>
+</div> -->
 
 I research how AI agents coordinate at scale and build production tools to make it practical. I also write about the human side of this transformation—from identity crisis to new possibilities.
 
