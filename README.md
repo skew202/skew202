@@ -28,6 +28,15 @@ Current frameworks (LangGraph, CrewAI) give you tools for orchestration, but lac
 
 I build production tools that solve real problems—usually ones I've encountered myself.
 
+### [AntiSlop](https://github.com/skew202/antislop)
+> **The Linter**
+
+Multi-language linter for detecting AI-generated code slop: placeholders, deferrals, hedging, and empty stubs. Uses tree-sitter AST parsing for accurate detection across 15+ languages with Zero Trust philosophy.
+
+- 🔧 [Tree-sitter AST, 15+ languages, ms-level speed](https://github.com/skew202/antislop)
+- 📦 `npm install -g antislop` · `cargo install antislop`
+- 🔍 Detects: TODO/FIXME comments, "for now" deferrals, "hopefully" hedging, empty functions
+
 ### [EnvCheck](https://github.com/envcheck/envcheck)
 > **The Validator**
 
@@ -85,7 +94,7 @@ SeekingSota explores what happens when engineers stop programming and start cond
 - 🐦 [Twitter/X](https://twitter.com/seekingsota) — Threads + conversation
 
 **GitHub**:
-- 🔧 **Tools**: [EnvCheck](https://github.com/envcheck), [NerfStatus](https://github.com/nerfstatus), [SpeakOps](https://github.com/speakops)
+- 🔧 **Tools**: [AntiSlop](https://github.com/skew202/antislop), [EnvCheck](https://github.com/envcheck), [NerfStatus](https://github.com/nerfstatus), [SpeakOps](https://github.com/speakops)
 - 🔬 **Research**: [stefanwiest](https://github.com/stefanwiest) — HCT, Genesis, papers
 - ✍️ **Content**: [seekingsota](https://seekingsota.com)
 
