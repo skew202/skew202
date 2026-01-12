@@ -100,22 +100,9 @@ SeekingSota explores what happens when engineers stop programming and start cond
 
 ---
 
-## 🎯 What I'm Working On
-
-**Right Now**:
-- 📄 [HCT Survey Paper](https://github.com/stefanwiest/hct-survey-paper) — Comprehensive MAS landscape analysis (2025)
-- 🔊 [SpeakOps Beta](https://github.com/speakops/desktop) — Public launch preparation
-
-**Exploring**:
-- Agent-to-Agent (A2A) protocol extensions
-- TensorZero inference optimization
-- Constitutional AI governance frameworks
-
----
-
 ## 🎪 Background
 
-**15+ years** building production software, from Sixt (1M+ bookings/day) to Samsa.AI (ML platforms). Now researching multi-agent coordination while building tools and writing honest stories about the transformation.
+**15+ years** building production software, from Sixt.com to Samsa.ai - Now researching multi-agent coordination while building tools and writing honest stories about the transformation.
 
 ---
 
