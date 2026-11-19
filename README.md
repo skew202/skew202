@@ -2,118 +2,49 @@
 
 > **AI Research & Engineering · Multi-Agent System Coordination**
 
-<!-- <div align="center">
-  <img src="https://github.com/skew202/assets/blob/main/branding/exoplanet_system_banner.png" alt="Pixelated Exoplanet System Banner" width="100%">
-</div> -->
+I architect production AI systems, research multi-agent coordination, and build open-source engineering tools. I also write about AI engineering reality and human judgment.
 
-I research how AI agents coordinate at scale and build production tools to make it practical. I also write about the human side of this transformation—from identity crisis to new possibilities.
+## Research
 
----
+**[Harmonic Coordination Theory (HCT)](https://github.com/stefanwiest/hct-spec)** applies musical coordination concepts (cues, fermatas, tempo, dissonance) as engineering primitives for timing, quality, and intent across multi-agent systems.
 
-## 🔬 Research
+- [Papers and research index](https://stefanwiest.de/research)
+- [hct-spec](https://github.com/stefanwiest/hct-spec): Canonical specification for HCT coordination signals
+- [hct-patterns](https://github.com/stefanwiest/hct-patterns): Diagnostic and functional patterns for multi-agent systems
+- [hct-mcp-signals](https://github.com/stefanwiest/hct-mcp-signals): HCT coordination signals extension for Model Context Protocol (MCP)
+- [hct-a2a](https://github.com/stefanwiest/hct-a2a): HCT extension for the Agent-to-Agent (A2A) protocol
 
-**[Harmonic Coordination Theory (HCT)](https://github.com/stefanwiest/hct-core)** — A musical ontology for multi-agent coordination
+## Open-Source Tools
 
-Current frameworks (LangGraph, CrewAI) give you tools for orchestration, but lack a shared language for *coordination semantics*—timing, quality, intent, and harmony. HCT fills this gap using musical performance as the ontology: cues, fermatas, tempo, and dissonance become engineering primitives.
-
-- 📄 [Read the papers](https://stefanwiest.de/research)
-- 💻 [hct-core](https://github.com/stefanwiest/hct-core) — Python/Rust/JS reference implementation
-- 📊 [hct-benchmarks](https://github.com/stefanwiest/hct-benchmarks) — Validation suite
-
-
-
----
-
-## 🛠️ Tools
-
-I build production tools that solve real problems—usually ones I've encountered myself.
+Production tools built from recurring engineering bottlenecks.
 
 ### [AntiSlop](https://github.com/skew202/antislop)
-> **The Linter**
-
-Multi-language linter for detecting AI-generated code slop: placeholders, deferrals, hedging, and empty stubs. Uses tree-sitter AST parsing for accurate detection across 15+ languages with Zero Trust philosophy.
-
-- 🔧 [Tree-sitter AST, 15+ languages, ms-level speed](https://github.com/skew202/antislop)
-- 📦 `npm install -g antislop` · `cargo install antislop`
-- 🔍 Detects: TODO/FIXME comments, "for now" deferrals, "hopefully" hedging, empty functions
+Multi-language AST linter that catches AI-generated code slop across 15+ languages using tree-sitter: placeholder stubs, deferral comments, hedging, and empty functions.
+- Install: `npm install -g antislop` or `cargo install antislop`
 
 ### [EnvCheck](https://github.com/envcheck/envcheck)
-> **The Validator**
-
-Fast, modern Rust CLI that detects `.env` file issues and syncs with Kubernetes, Terraform, Ansible, GitHub Actions, Helm, and ArgoCD. Better than dotenv-linter with 10x more features.
-
-- 🔧 [K8s sync, Terraform integration, TUI, SARIF output](https://github.com/envcheck/envcheck)
-- 📦 `cargo install envcheck` · `npm install -g @envcheck/cli`
-- ⚡ [envcheck.github.io](https://envcheck.github.io) — Documentation
+Rust CLI for linting `.env` files and checking environment parity across Kubernetes, Terraform, Ansible, GitHub Actions, Helm, and ArgoCD, with TUI and SARIF output.
+- Install: `cargo install envcheck` or `npm install -g @envcheck/cli`
+- Docs: [envcheck.github.io](https://envcheck.github.io)
 
 ### [NerfStatus](https://github.com/nerfstatus/nerfprobe)
-> **The Detector**
+Suite of 17 probes (math, style, timing, code, fact, JSON, consistency, fingerprint) to measure silent LLM degradation, quantization drift, and instruction failures.
+- Install: `pip install nerfprobe`
+- Dashboard: [nerfstatus.com](https://nerfstatus.com)
 
-Detects silent model collapse, quantization artifacts, and instruction failures with 17 research-backed probes (Math, Style, Timing, Code, Fact, JSON, Consistency, Fingerprint, and more).
+## Writing
 
-- 🔬 [17 scientifically-grounded instruments](https://github.com/nerfstatus/nerfprobe)
-- 📦 `pip install nerfprobe`
-- 📊 [nerfstatus.com](https://nerfstatus.com) — Real-time dashboard
+- **[SeekingSota](https://seekingsota.substack.com)** ([seekingsota.com](https://seekingsota.com)): Weekly essays on real agent workflows, systems architecture, and what happens when engineers stop writing code by hand and start conducting agents.
+- **[Modernist Human](https://www.modernisthuman.com)**: Five-volume philosophical and empirical treatise with a 27-tool companion field manual on human agency in the age of AI.
 
-### [SpeakOps](https://github.com/speakops/desktop)
-> **The Amplifier**
+## Background
 
-"DevOps for your Voice." Analyzes your speech in real-time during interviews, sales calls, or presentations and sends HUD-style teleprompter hints to your phone. Hybrid AI: local STT (privacy) + cloud intelligence (quality).
+15+ years building production software and leading engineering teams across startups and scale-ups (Sixt.com, Peter Park, StudySmarter, auteon, Samsa.AI). Independent systems engineering and AI architecture advisor.
 
-- 🎤 [Real-time Speech Telemetry](https://github.com/speakops/desktop)
-- 🔊 [Cloud service](https://github.com/speakops/cloud) — Whisper + Llama 3.1
-- 📱 [Phone PWA](https://github.com/speakops/phone) — Progressive web app
+## Connect
 
----
-
-## ✍️ Writing
-
-**[SeekingSota](https://seekingsota.com)** — Weekly essays on AI × Human identity crisis
-
-I don't write code anymore. I just yell at agents.
-*And sometimes they listen.*
-
-SeekingSota explores what happens when engineers stop programming and start conducting AI agents. Real agent workflows, technical deep dives (made accessible), philosophy of production, and honest stories about the identity crisis that comes with this transformation.
-
-- 📝 [seekingsota.com](https://seekingsota.com) — Weekly essays (every Tuesday)
-- 🐦 [Twitter/X](https://twitter.com/seekingsota) — Threads + updates
-- 📧 [Subscribe](https://seekingsota.com/subscribe) — Free or paid
-
-**Recent Essays**:
-- ["I Don't Write Code Anymore. I Just Yell At Agents."](https://seekingsota.com/p/i-dont-write-code-anymore)
-- ["So AWS us-east-1 decided to cosplay as chaos monkey"](https://seekingsota.com)
-- ["This is my solution to eliminate 90% of .env file headaches"](https://seekingsota.com)
-
----
-
-## 📫 Connect
-
-**Online**:
-- 🌐 [Website](https://stefanwiest.de) — Research, tools, writing, talks
-- 💼 [LinkedIn](https://linkedin.com/in/stefanwiest) — Professional posts + updates
-- 🐦 [Twitter/X](https://twitter.com/seekingsota) — Threads + conversation
-
-**GitHub**:
-- 🔧 **Tools**: [AntiSlop](https://github.com/skew202/antislop), [EnvCheck](https://github.com/envcheck), [NerfStatus](https://github.com/nerfstatus), [SpeakOps](https://github.com/speakops)
-- 🔬 **Research**: [stefanwiest](https://github.com/stefanwiest) — HCT, Genesis, papers
-- ✍️ **Content**: [seekingsota](https://seekingsota.com)
-
----
-
-## 🎪 Background
-
-**15+ years** building production software, from Sixt.com to Samsa.ai - Now researching multi-agent coordination while building tools and writing honest stories about the transformation.
-
----
-
-**Pinned Repositories** ↓
-
-<!--
-Note to self: Pin these 6 repos via GitHub profile settings:
-1. stefanwiest/hct-core
-2. stefanwiest/hct-spec
-3. stefanwiest/hct-mcp-signals
-4. envcheck/envcheck
-5. nerfstatus/nerfprobe
-6. speakops/desktop
--->
+- Website: [stefanwiest.de](https://stefanwiest.de)
+- Substack: [seekingsota.substack.com](https://seekingsota.substack.com)
+- LinkedIn: [linkedin.com/in/stefanwiest](https://linkedin.com/in/stefanwiest)
+- X: [@seekingsota](https://x.com/seekingsota)
+- Research org: [github.com/stefanwiest](https://github.com/stefanwiest)
