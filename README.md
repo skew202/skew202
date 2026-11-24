@@ -6,11 +6,11 @@ I bring 16+ years of distributed systems engineering across Sixt, Samsa.AI, aute
 
 ---
 
-## Enterprise Advisory & Architecture
+## Enterprise Advisory & Principal Architecture
 
-Through an independent EU and global B2B practice (Native German, Fluent English, `08:00-14:00 CET` daily synchronous overlap):
+Through an independent EU and global B2B practice (Native German, Fluent English, `08:00-14:00 CET` daily synchronous overlap), I am open to Principal AI Architecture roles and deliverable-scoped advisory mandates. Book an architecture scoping call:
 
-- [Enterprise Advisory & Risk Audits](https://www.stefanwiest.de/advisory/): 2-3 week OWASP ASI01-ASI10 and EU AI Act diagnostics, E2B/Cloudflare control-plane blueprints, and Principal governance retainers (Q1 2027 start).
+- [Enterprise Advisory & Risk Audits](https://www.stefanwiest.de/advisory/): 2-3 week OWASP ASI01-ASI10 and EU AI Act diagnostics, E2B/Cloudflare control-plane blueprints, and Principal governance retainers.
 - [Production Case Studies](https://www.stefanwiest.de/work/): Asynchronous enterprise AI workflow pipelines, GPU inference optimization (-40% latency), and high-scale distributed systems.
 
 ---
