@@ -36,9 +36,9 @@ Through an independent EU and global B2B practice (Native German, Fluent English
 
 ---
 
-## SeekingSota (Weekly Engineering Column)
+## SeekingSota (Press, Music & Weekly Column)
 
-I publish weekly long-form analysis on post-boilerplate engineering leadership, real agent architectures, and production judgment at [seekingsota.substack.com](https://seekingsota.substack.com/).
+My creative house at [seekingsota.com](https://seekingsota.com/) unites **SeekingSota Press** ([*Modernist Human*](https://www.modernisthuman.com/) and weekly post-boilerplate engineering leadership essays on [Substack](https://seekingsota.substack.com/)) with **SeekingSota Music** ([developer-folklore concept albums](https://seekingsota.com/music/)).
 
 ---
 
